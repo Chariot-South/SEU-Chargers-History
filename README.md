@@ -2,6 +2,8 @@
 
 每天上午自动获取前一日数据，并提交至 `data` 文件夹。
 
+提醒：部分历史数据在 releases 内。
+
 数据为 Tab 分割的表格文件。
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
